@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="image_page" src=".arquivos/print_page" width="100%">
+  <img alt="image_page" src="arquivos/print_page.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,5 +25,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 É uma página estatica de uma loja com uma animação simples de movimento do tênis.
 
 <p align="center">
-  <img alt="gif_loja" src=".arquivos/gif_page_loja.gif" width="100%">
+  <img alt="gif_loja" src="arquivos/gif_page_loja.gif" width="100%">
 </p>
